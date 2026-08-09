@@ -3,3 +3,15 @@
 /legal          /index.html    200
 /support        /support.html  200
 /               /index.html    200
+# BlueRay (global) English legal pages
+/blueray /blueray/index.html 200
+/blueray/ /blueray/index.html 200
+/blueray/privacy /blueray/privacy/index.html 200
+/blueray/privacy/ /blueray/privacy/index.html 200
+/blueray/disclaimer /blueray/disclaimer/index.html 200
+/blueray/disclaimer/ /blueray/disclaimer/index.html 200
+/blueray/terms /blueray/terms/index.html 200
+/blueray/terms/ /blueray/terms/index.html 200
+/blueray/support /blueray/support/index.html 200
+/blueray/support/ /blueray/support/index.html 200
+
