@@ -4,14 +4,24 @@
 /support        /support.html  200
 /               /index.html    200
 # BlueRay (global) English legal pages
-/blueray /blueray/index.html 200
-/blueray/ /blueray/index.html 200
-/blueray/privacy /blueray/privacy/index.html 200
-/blueray/privacy/ /blueray/privacy/index.html 200
-/blueray/disclaimer /blueray/disclaimer/index.html 200
-/blueray/disclaimer/ /blueray/disclaimer/index.html 200
-/blueray/terms /blueray/terms/index.html 200
-/blueray/terms/ /blueray/terms/index.html 200
-/blueray/support /blueray/support/index.html 200
-/blueray/support/ /blueray/support/index.html 200
-
+/joylights /joylights/index.html 200
+/joylights/ /joylights/index.html 200
+/joylights/privacy /joylights/privacy/index.html 200
+/joylights/privacy/ /joylights/privacy/index.html 200
+/joylights/disclaimer /joylights/disclaimer/index.html 200
+/joylights/disclaimer/ /joylights/disclaimer/index.html 200
+/joylights/terms /joylights/terms/index.html 200
+/joylights/terms/ /joylights/terms/index.html 200
+/joylights/support /joylights/support/index.html 200
+/joylights/support/ /joylights/support/index.html 200
+# Legacy EasyLight/BlueRay paths → JoyLights
+/blueray /joylights/ 301
+/blueray/ /joylights/ 301
+/blueray/privacy /joylights/privacy/ 301
+/blueray/privacy/ /joylights/privacy/ 301
+/blueray/disclaimer /joylights/disclaimer/ 301
+/blueray/disclaimer/ /joylights/disclaimer/ 301
+/blueray/terms /joylights/terms/ 301
+/blueray/terms/ /joylights/terms/ 301
+/blueray/support /joylights/support/ 301
+/blueray/support/ /joylights/support/ 301
